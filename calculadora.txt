@@ -1,3 +1,5 @@
 Esto es una calculadora con operaciones aritméticas
 suma float
 resta float
+producto float
+division float
